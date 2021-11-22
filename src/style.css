@@ -1,17 +1,17 @@
 /* styles go here */
-fieldset {
+.forFieldset {
   margin-bottom: 20px;
 }
 
-label {
+.label {
   display: block;
   margin-bottom: 10px;
 }
 
-div label {
+.divLabel {
   display: inline-block;
 }
 
-fieldset label:last-child {
+.label:last-child {
   margin-bottom: 0;
 }
